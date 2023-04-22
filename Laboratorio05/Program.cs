@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            Equipo equipo1 = new Equipo("Equipo 1", 3,0,0,1,0);
+            Equipo equipo1 = new Equipo("Equipo 1", 3, 0, 0, 1, 0);
             Equipo equipo2 = new Equipo("Equipo 2", 1, 1, 1, 1, 1);
 
 
